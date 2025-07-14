@@ -1,6 +1,6 @@
-CodSoft Task 3
+**CodSoft Task 3**
 
-MINI CALCULATOR
+**MINI CALCULATOR**
 
 ✅ Interactive Calculator Interface
 
